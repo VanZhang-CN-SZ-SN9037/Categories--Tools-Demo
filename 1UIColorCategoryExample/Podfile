@@ -1,0 +1,5 @@
+platform:ios,'8.0'
+target '1UIColorCategoryExample' do 
+ pod 'Masonry'
+
+end 
