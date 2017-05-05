@@ -1,0 +1,4 @@
+platform:ios,'8.0'
+target:'03UIViewCategoryExample' do
+ pod 'MBProgressHUD'
+end
